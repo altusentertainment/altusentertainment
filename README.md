@@ -11,6 +11,5 @@
 
 - 📍 Address: 10624 S Eastern Ave Suite A-641, Henderson, NV 89052, United States
 - 🌐 Website: [https://altusentertainment.com](https://altusentertainment.com)
-- 📧 Email: [altusent@domain.com](mailto:altusent@domain.com)
+- 📧 Email: [booking@altusentertainment.com](mailto:booking@altusentertainment.com)
 - 📱 Social: [@AltusEnt](https://twitter.com/AltusEnt) | [altusentertainment](https://www.linkedin.com/company/altusentertainment)
-- 🗓 Joined: 11 minutes ago
